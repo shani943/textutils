@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//shani943.github.io/textutils/static/css/main.af21e10a.css",
-    "main.js": "/https//shani943.github.io/textutils/static/js/main.7b1a2265.js",
-    "static/js/787.719ec76d.chunk.js": "/https//shani943.github.io/textutils/static/js/787.719ec76d.chunk.js",
-    "index.html": "/https//shani943.github.io/textutils/index.html",
-    "main.af21e10a.css.map": "/https//shani943.github.io/textutils/static/css/main.af21e10a.css.map",
-    "main.7b1a2265.js.map": "/https//shani943.github.io/textutils/static/js/main.7b1a2265.js.map",
-    "787.719ec76d.chunk.js.map": "/https//shani943.github.io/textutils/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/textutils/static/css/main.af21e10a.css",
+    "main.js": "/textutils/static/js/main.32b8e1d6.js",
+    "static/js/787.719ec76d.chunk.js": "/textutils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/textutils/index.html",
+    "main.af21e10a.css.map": "/textutils/static/css/main.af21e10a.css.map",
+    "main.32b8e1d6.js.map": "/textutils/static/js/main.32b8e1d6.js.map",
+    "787.719ec76d.chunk.js.map": "/textutils/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af21e10a.css",
-    "static/js/main.7b1a2265.js"
+    "static/js/main.32b8e1d6.js"
   ]
 }
